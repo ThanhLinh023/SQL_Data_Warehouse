@@ -1,2 +1,2 @@
-# SQL_Data_Warehouse
+# SQL Data Warehouse
 Building a modern data warehouse with SQL Server database
