@@ -13,8 +13,8 @@ begin
 			cst_key,
 			cst_firstname,
 			cst_lastname,
-			cst_material_status,
 			cst_gndr,
+			cst_material_status,
 			cst_create_date)
 		Select cst_id, cst_key, 
 		TRIM(cst_firstname) as cst_firstname,
